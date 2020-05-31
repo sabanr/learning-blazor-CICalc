@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8xEJxSfl0StBE3lcqIN4KJjR9iQoBEH1X3UhE+ijyqA+WCxqaPzMwKnj6MNrH0qnNCqsGL/jErv9fBMq41Tgvw==",
+  "dgSpecHash": "0id1++HhYNDkDQA0C35DzkTa8Q8EQ2mX4mgKREuJYCXIQnPXLfRuful1OjQrAXWd9P+R6Dy4xVMseV/hF4R+Yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\CICalc.csproj",
+  "projectFilePath": "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\CICalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roberto\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\Roberto\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",

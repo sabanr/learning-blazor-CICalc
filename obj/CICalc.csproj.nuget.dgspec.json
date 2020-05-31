@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\CICalc.csproj": {}
+    "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\CICalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\CICalc.csproj": {
+    "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\CICalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\CICalc.csproj",
+        "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\CICalc.csproj",
         "projectName": "CICalc",
-        "projectPath": "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\CICalc.csproj",
+        "projectPath": "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\CICalc.csproj",
         "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roberto\\source\\repos\\blazor\\cicalc\\obj\\",
+        "outputPath": "C:\\Users\\Roberto\\source\\repos\\blazor\\CICalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

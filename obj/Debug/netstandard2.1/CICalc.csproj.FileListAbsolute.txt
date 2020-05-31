@@ -356,6 +356,6 @@ C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
 C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CompondInterest.razor.g.cs
 C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\Razor\Pages\CompondInterest.razor.g.cs
-C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\ohxuKQUuzPdU2WBIMU7hcmpsl_oONzTzFLa9cM0NUTw=.hash
-C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\s4ESi0CB0xuwCkdXvOpMg_Hi71goc4EwTKF-dg__Ki0=.hash
-C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\5vGXmgSa2Ipj1mjbErAGg0e_7F-qvS_v79GEAcuiQro=.hash
+C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\1zbDJ9CrbXy6qf261uSbR7uBivR2xLI3NY3N5dm_m3A=.hash
+C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\1Ge7prROhoMlrsCq_-1hM4aCe1NM28DSfaRafrpQTsQ=.hash
+C:\Users\Roberto\source\repos\blazor\CICalc\obj\Debug\netstandard2.1\integrity\qpZyrH21kuB9yJL4T5h8QlQmptGWB9NLiXChYSEIGfA=.hash
